@@ -1,13 +1,151 @@
-#  About Me:
-I am a third-year Computer Engineering student, and technology has been my great passion since I was a child. Fascinated by understanding how things work and creating innovative solutions, I enthusiastically explore different areas, from Backend and Frontend to Networking and Cybersecurity. I am constantly learning new skills and applying them to realistic and challenging projects that allow me to grow both technically and personally. I believe technology has the power to transform the world, and my goal is to one day make a difference through what I create and contribute. I enjoy taking on new challenges, stepping out of my comfort zone, and seizing every opportunity to evolve as a professional and as a person.<br><br>
+<!-- ====================== HEADER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:F38020&height=220&section=header&text=Francisco%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Francisco Dias banner"/>
+</p>
 
+<p align="center">
+  <a href="https://github.com/DiasDias106">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F38020&center=true&vCenter=true&width=600&lines=Ex-Intern+%40+Cloudflare+%E2%98%81%EF%B8%8F;Ex-Intern+%40+Celfocus+%F0%9F%A4%96;Building+AI+agents%2C+RAG+%26+MCP+servers;Automating+infrastructure+at+scale;Passionate+about+Cybersecurity+%F0%9F%94%90" alt="Typing SVG"/>
+  </a>
+</p>
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DiasDias106&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DiasDias106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DiasDias106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Lisboa%2C%20Portugal-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=F38020" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=DiasDias106&style=for-the-badge&color=F38020&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 👨‍💻 About Me
+
+```ts
+const francisco = {
+  role:        "Computer Engineer",
+  location:    "Lisboa, Portugal 🇵🇹",
+  education: {
+    bsc: "Computer Engineering @ ISTEC Lisbon (2023–2026) — GPA 17.5/20",
+    msc: "Master's student @ FCUL — Universidade de Lisboa",
+  },
+  experience: [
+    "Infrastructure Strategy & Analytics Intern @ Cloudflare",
+    "SW Engineering — AI Optimized Workflows Intern @ Celfocus",
+  ],
+  interests:   ["Cybersecurity", "Backend", "Cloud & Infra", "AI Agents", "Networking"],
+  languages:   ["Portuguese (native)", "English (B2)"],
+  motto:       "Helping the community one step at a time.",
+};
+```
+
+Technology has fascinated me since I was a kid. I love understanding **how things work under the hood** and turning that curiosity into real, useful software, from low-level C programs to cloud infrastructure and AI-powered workflows. I'm always looking for the next challenge that pushes me out of my comfort zone.
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+      </h3>
+      <b>Infrastructure Strategy & Analytics Intern</b><br/>
+      <sub>Jul 2026 – Oct 2026</sub>
+      <ul>
+        <li>Automated planning & lifecycle tasks for <b>global infrastructure deployment</b></li>
+        <li>Built internal tools & dashboards on capacity and deployment data</li>
+        <li>Reduced manual processes and improved data quality through automation</li>
+        <li>Integrated planning logic into existing engineering systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://img.shields.io/badge/-Celfocus-6E2C8F?style=flat-square&logoColor=white" alt="Celfocus"/>
+      </h3>
+      <b>SW Engineering — AI Optimized Workflows Intern</b><br/>
+      <sub>Mar 2026 – Jun 2026</sub>
+      <ul>
+        <li>Developed custom <b>skills, agents & MCP servers</b> with Claude Code</li>
+        <li>Built <b>RAG architectures</b> over vector databases</li>
+        <li>Created agents in Microsoft Foundry and Azure-connected APIs for container management</li>
+        <li>Collaborated with Frontend, Java & AppSec teams</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,php,swift,r,bash,powershell&perline=12" alt="Languages"/>
+</p>
+
+<p align="center"><b>Frontend & Backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind,bootstrap,jquery,dotnet,flask,fastapi,prisma&perline=12" alt="Frameworks"/>
+</p>
+
+<p align="center"><b>Databases, Cloud & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,docker,kubernetes,terraform,azure,aws,cloudflare,linux,kali&perline=12" alt="Cloud and DevOps"/>
+</p>
+
+<p align="center"><b>Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,ps,unity,vscode,anaconda&perline=12" alt="Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=for-the-badge&logo=anthropic&logoColor=F38020" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20Vector%20DBs-1a1b27?style=for-the-badge&logo=databricks&logoColor=F38020" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Active%20Directory%20%2F%20LDAP-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DiasDias106/Planet_Hunter"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=Planet_Hunter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="Planet Hunter"/></a>
+  <a href="https://github.com/DiasDias106/F1_Website_and_Dashboard"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=F1_Website_and_Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="F1 Website and Dashboard"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DiasDias106/Fallout_Forum_and_Store"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=Fallout_Forum_and_Store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="Fallout Forum and Store"/></a>
+  <a href="https://github.com/DiasDias106/Fallout-WPF-Multi-Purpose-Themed-Application"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=Fallout-WPF-Multi-Purpose-Themed-Application&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="Fallout WPF"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DiasDias106/Warehouse_Management_System"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=Warehouse_Management_System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="Warehouse Management System"/></a>
+  <a href="https://github.com/DiasDias106/Multiplayer_Dice_Game"><img src="https://github-readme-stats.shion.dev/api/pin/?username=DiasDias106&repo=Multiplayer_Dice_Game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020" alt="Multiplayer Dice Game"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=DiasDias106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&icon_color=F38020&rank_icon=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DiasDias106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F38020&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DiasDias106&theme=tokyonight&hide_border=true&background=0d1117&ring=F38020&fire=F38020&currStreakLabel=F38020" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiasDias106/DiasDias106/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiasDias106/DiasDias106/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DiasDias106/DiasDias106/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F38020,50:1a1b27,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+</p>

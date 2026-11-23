@@ -23,7 +23,7 @@ const francisco = {
   role:        "Computer Engineer",
   location:    "Lisboa, Portugal 🇵🇹",
   education: {
-    bsc: "Computer Engineering @ ISTEC Lisbon (2023–2026) — GPA 17.5/20",
+    bsc: "Computer Engineering @ ISTEC Lisbon (2023–2026) — GPA 18/20",
     msc: "Master's student @ FCUL — Universidade de Lisboa",
   },
   experience: [
